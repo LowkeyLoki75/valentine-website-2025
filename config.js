@@ -72,6 +72,8 @@ const CONFIG = {
         stopText: "🔇 Stop Music",        
         volume: 0.5                      
     }
+   <img src="images/myphoto.png" alt="My Photo">
+
 };
 
 // Don't modify anything below this line unless you know what you're doing
