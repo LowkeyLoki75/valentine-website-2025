@@ -73,9 +73,7 @@ const CONFIG = {
         volume: 0.5                      
     },
                                       
-            nextBtn: "NEXT NEXT NEXT"
-   <img src="images/myphoto.png" alt="My Photo">
-   }
+   
 };
 
 // Don't modify anything below this line unless you know what you're doing
