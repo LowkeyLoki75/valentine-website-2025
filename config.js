@@ -15,7 +15,7 @@ const CONFIG = {
    
     questions: {
         first: {
-            text: "Magan Nguyen do you like me?",                                  
+            text: "Do you like me?",                                  
             yesBtn: "Yes",                                            
             noBtn: "No",                                             
             secretAnswer: "I hate you (jk I love you)"           
