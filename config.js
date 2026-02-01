@@ -22,7 +22,7 @@ const CONFIG = {
         },
         second: {
             text: "How much do you love me?",                         
-            startText: "Your mom hehe jk this much",                                   
+            startText: "hehe this much",                                   
             nextBtn: "NEXT NEXT NEXT"                                         
         },
         third: {
