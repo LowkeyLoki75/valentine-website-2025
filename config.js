@@ -67,7 +67,7 @@ const CONFIG = {
     music: {
         enabled: true,                     
         autoplay: true,                    
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", 
+        musicUrl: "https://res.cloudinary.com/ddnyrhgtw/video/upload/v1769987233/ScreenRecording_02-01-2026_17-01-32_1_syeewd.mp4", 
         startText: "🎵 Play Music",       
         stopText: "🔇 Stop Music",        
         volume: 0.5                      
