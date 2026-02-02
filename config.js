@@ -29,15 +29,6 @@ const CONFIG = {
             text: "Will you be my Valentine... and let me stay over for a few days or else I'll be homeless?🙏🏼",
             yesBtn: "Yes of course baby!",                                          
             noBtn: "No, you can live in the dumpster"  
-           if (currentState === STATES.THIRD) {
-    const noBtn = document.getElementById("no-btn");
-
-    noBtn.addEventListener("mouseenter", () => {
-        dodgeButton(noBtn);
-    });
-}
-
-           
         }
     },
 
@@ -80,10 +71,6 @@ const CONFIG = {
         startText: "🎵 Play Music",       
         stopText: "🔇 Stop Music",        
         volume: 0.5   
-       audio.play().catch(() => {
-    showToast("Tap to enable music 🎶");
-});
-
     }
                                        
 };
