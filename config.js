@@ -26,9 +26,9 @@ const CONFIG = {
             nextBtn: "NEXT NEXT NEXT"                                         
         },
         third: {
-            text: "Will you be my Valentine... and let me stay over for a few days or else I'll be homeless",
+            text: "Will you be my Valentine... and let me stay over for a few days or else I'll be homeless?🙏🏼",
             yesBtn: "Yes!",                                          
-            noBtn: "No"                                                
+            noBtn: "No, you can live in the dumpster"                                                
         }
     },
 
