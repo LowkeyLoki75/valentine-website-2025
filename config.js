@@ -42,7 +42,7 @@ const CONFIG = {
 
     celebration: {
         title: "HEHEHE SEE YOU SOONNNN",
-        message: "Now sit back, enjoy the ride, this weekend is going to be amazing :)",
+        message: "Now sit back, enjoy the ride, because this weekend is going to be amazing :)",
         emojis: "🫶💓💗❤️‍🔥🫶" 
     },
 
