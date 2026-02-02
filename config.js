@@ -16,8 +16,8 @@ const CONFIG = {
     questions: {
         first: {
             text: "Do you like me?",                                  
-            yesBtn: "Yes",                                            
-            noBtn: "No",                                             
+            yesBtn: "Yes duh (well who knows?)",                                            
+            noBtn: "No...",                                             
             secretAnswer: "I hate you (jk I love you)"           
         },
         second: {
@@ -27,8 +27,17 @@ const CONFIG = {
         },
         third: {
             text: "Will you be my Valentine... and let me stay over for a few days or else I'll be homeless?🙏🏼",
-            yesBtn: "Yes!",                                          
-            noBtn: "No, you can live in the dumpster"                                                
+            yesBtn: "Yes of course baby!",                                          
+            noBtn: "No, you can live in the dumpster"  
+           if (currentState === STATES.THIRD) {
+    const noBtn = document.getElementById("no-btn");
+
+    noBtn.addEventListener("mouseenter", () => {
+        dodgeButton(noBtn);
+    });
+}
+
+           
         }
     },
 
@@ -41,8 +50,8 @@ const CONFIG = {
 
 
     celebration: {
-        title: "HEHEHE See you soon baby. You make me so happy",
-        message: "Now sit back and enjoy the ride, this weekend is going to be amazing :)",
+        title: "HEHEHE SEE YOU SOONNNN",
+        message: "I’m really lucky to have you. I can’t wait to spend Valentine’s with you.",
         emojis: "🫶💓💗❤️‍🔥🫶" 
     },
 
