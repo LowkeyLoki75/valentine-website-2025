@@ -71,8 +71,7 @@ const CONFIG = {
         startText: "🎵 Play Music",       
         stopText: "🔇 Stop Music",        
         volume: 0.5   
-    }
-                                       
+    }                                      
 };
 
 // Don't modify anything below this line unless you know what you're doing
