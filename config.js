@@ -16,8 +16,8 @@ const CONFIG = {
     questions: {
         first: {
             text: "Do you like me?",                                  
-            yesBtn: "Yes",                                            
-            noBtn: "No",                                             
+            yesBtn: "Yes duh (Well who knows?)",                                            
+            noBtn: "No...",                                             
             secretAnswer: "I hate you (jk I love you)"           
         },
         second: {
@@ -26,9 +26,9 @@ const CONFIG = {
             nextBtn: "NEXT NEXT NEXT"                                         
         },
         third: {
-            text: "Will you be my Valentine... and let me stay over for a few days or else I'll be homeless",
+            text: "Will you be my Valentine... and let me stay over for a few days or else I'll be homeless?🙏",
             yesBtn: "Yes!",                                          
-            noBtn: "No"                                                
+            noBtn: "No (I hope you crash and burn and sleep in a dumpster)"                                                
         }
     },
 
@@ -41,8 +41,8 @@ const CONFIG = {
 
 
     celebration: {
-        title: "HEHEHE See you soon baby. You make me so happy",
-        message: "Now sit back and enjoy the ride, this weekend is going to be amazing :)",
+        title: "HEHEHE SEE YOU SOONNNN",
+        message: "Now sit back, enjoy the ride, this weekend is going to be amazing :)",
         emojis: "🫶💓💗❤️‍🔥🫶" 
     },
 
