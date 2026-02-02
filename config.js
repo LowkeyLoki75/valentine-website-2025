@@ -79,7 +79,11 @@ const CONFIG = {
         musicUrl: "https://res.cloudinary.com/ddnyrhgtw/video/upload/v1769987982/ScreenRecording_02-01-2026_17-01-32_1_retopu.mp3", 
         startText: "🎵 Play Music",       
         stopText: "🔇 Stop Music",        
-        volume: 0.5                      
+        volume: 0.5   
+       audio.play().catch(() => {
+    showToast("Tap to enable music 🎶");
+});
+
     }
                                        
 };
