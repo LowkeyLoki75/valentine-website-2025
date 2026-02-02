@@ -16,8 +16,8 @@ const CONFIG = {
     questions: {
         first: {
             text: "Do you like me?",                                  
-            yesBtn: "Yes duh (well who knows?)",                                            
-            noBtn: "No...",                                             
+            yesBtn: "Yes",                                            
+            noBtn: "No",                                             
             secretAnswer: "I hate you (jk I love you)"           
         },
         second: {
@@ -27,8 +27,8 @@ const CONFIG = {
         },
         third: {
             text: "Will you be my Valentine... and let me stay over for a few days or else I'll be homeless?🙏🏼",
-            yesBtn: "Yes of course baby!",                                          
-            noBtn: "No, you can live in the dumpster"  
+            yesBtn: "Yes!",                                          
+            noBtn: "No, you can live in the dumpster"                                                
         }
     },
 
@@ -41,8 +41,8 @@ const CONFIG = {
 
 
     celebration: {
-        title: "HEHEHE SEE YOU SOONNNN",
-        message: "I’m really lucky to have you. I can’t wait to spend Valentine’s with you.",
+        title: "HEHEHE See you soon baby. You make me so happy",
+        message: "Now sit back and enjoy the ride, this weekend is going to be amazing :)",
         emojis: "🫶💓💗❤️‍🔥🫶" 
     },
 
@@ -70,8 +70,9 @@ const CONFIG = {
         musicUrl: "https://res.cloudinary.com/ddnyrhgtw/video/upload/v1769987982/ScreenRecording_02-01-2026_17-01-32_1_retopu.mp3", 
         startText: "🎵 Play Music",       
         stopText: "🔇 Stop Music",        
-        volume: 0.5   
-    }                                      
+        volume: 0.5                      
+    }
+                                       
 };
 
 // Don't modify anything below this line unless you know what you're doing
